@@ -15,12 +15,15 @@ namespace project_4
     {
         public BookVehicleForm()
         {
-            InitializeComponent();
-            LoadComboBoxes();
+            InitializeComponent();//static with any form
+            LoadComboBoxes(); // تحميل قوائم الاختيار عند فتح النافذة
         }
 
         private void LoadComboBoxes()
         {
+            // هنا انت بتجيب العملاء والمركبات من مديرة الإيجار ,
+            // و تعبئة القوائم في النافذة 
+            //try catch لتجنب حدوث خطأ
             try
             {
                 // نتأكد إن القوايم مش null
@@ -31,14 +34,16 @@ namespace project_4
                 }
 
                 // تعبئة قايمة العملاء
-                CustomerComboBox.DataSource = RentalManager.Customers;
-                CustomerComboBox.DisplayMember = "DisplayText";
-                CustomerComboBox.ValueMember = "Id";
+                // CustomerComboBox from designer page
+                CustomerComboBox.DataSource = RentalManager.Customers;// RentalManager.Customers from RentalManager.cs // مصدر البيانات هو قائمة العملاء
+                CustomerComboBox.DisplayMember = "DisplayText";// CustomerComboBox.DisplayMember = "DisplayText" from designer page // عرض اسم العميل
+                CustomerComboBox.ValueMember = "Id";// CustomerComboBox.ValueMember = "Id" from designer page //  قيمة العميل و ربطه ب القيمة
 
                 // تعبئة قايمة المركبات المتاحة
-                VehicleComboBox.DataSource = RentalManager.GetAvailableVehicles();
-                VehicleComboBox.DisplayMember = "DisplayText";
-                VehicleComboBox.ValueMember = "VehicleID";
+                // VehicleComboBox from designer page
+                VehicleComboBox.DataSource = RentalManager.GetAvailableVehicles();// RentalManager.GetAvailableVehicles() from RentalManager.cs // مصدر البيانات هو قائمة المركبات المتاحة
+                VehicleComboBox.DisplayMember = "DisplayText";// VehicleComboBox.DisplayMember = "DisplayText" from designer page // عرض اسم المركبة
+                VehicleComboBox.ValueMember = "VehicleID";// VehicleComboBox.ValueMember = "VehicleID" from designer page //  قيمة المركبة و ربطه ب القيمة
 
                 // لو مفيش عملاء أو مركبات، نعرض رسالة
                 if (CustomerComboBox.Items.Count == 0)
@@ -75,14 +80,21 @@ namespace project_4
                 }
 
                 // ناخد القيم من الـ ComboBox
-                int customerId = (int)CustomerComboBox.SelectedValue;
-                int vehicleId = (int)VehicleComboBox.SelectedValue;
-                DateTime start = StartDatePicker.Value;
-                DateTime end = EndDatePicker.Value;
+                int customerId = (int)CustomerComboBox.SelectedValue; // رقم العميل المختار
+                int vehicleId = (int)VehicleComboBox.SelectedValue; // رقم المركبة المختار
+                DateTime start = StartDatePicker.Value; // تاريخ البداية
+                DateTime end = EndDatePicker.Value; // تاريخ النهاية
+                                                    // حساب عدد الأيام
+                int days = (end - start).Days + 1; // +1 عشان نحسب اليوم الأول
 
-                RentalManager.BookVehicle(vehicleId, customerId, start, end);
-                MessageBox.Show("تم الحجز بنجاح!");
-                this.Close();
+                // جيب المركبة بناءً على vehicleId
+                Vehicle vehicle = RentalManager.Vehicles.FirstOrDefault(v => v.VehicleID == vehicleId); 
+                    // حساب التكلفة الإجمالية
+                double totalCost = days * vehicle.Price;
+                
+
+                RentalManager.BookVehicle(vehicleId, customerId, start, end);// RentalManager.BookVehicle() from RentalManager.cs // حجز المركبة
+                MessageBox.Show($"التكلفة الإجمالية للحجز: {totalCost} جنيه لمدة {days} أيام.", "تأكيد الحجز"); this.Close();
             }
             catch (Exception ex)
             {

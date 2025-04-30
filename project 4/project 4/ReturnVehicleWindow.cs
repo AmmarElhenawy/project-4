@@ -15,9 +15,10 @@ namespace project_4
     {
         public ReturnVehicleForm()
         {
-            InitializeComponent();
-            LoadComboBox();
-        }
+            InitializeComponent();// تهيئة المكونات //static with any form
+            LoadComboBox();// تحميل قائمة المركبات المحجوزة
+}
+        
 
         private void LoadComboBox()
         {

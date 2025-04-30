@@ -15,17 +15,37 @@ namespace project_4
     {
         public AddCustomerForm()
         {
-            InitializeComponent();
+            InitializeComponent();//static with any form
         }
 
+        // عند الضغط على زر إضافة عميل جديد، يتم تنفيذ هذه الدالة
         private void AddButton_Click(object sender, EventArgs e)
         {
             try
             {
+                // قراءة بيانات العميل من حقول النموذج
+
+                // 1. قراءة رقم العميل من حقل النص
                 int customerId = int.Parse(CustomerIdTextBox.Text);
+
+                // 2. قراءة الاسم من حقل النص
                 string name = NameTextBox.Text;
+
+                // 3. قراءة رقم الهاتف من حقل النص
                 int phone = int.Parse(PhoneTextBox.Text);
+
+                // 4. قراءة رقم الترخيص من حقل النص
                 int licenseNumber = int.Parse(LicenseNumberTextBox.Text);
+            
+        // التأكد من وجود قيمة مختارة في ComboBox
+        if (LicenseTypeComboBox.SelectedItem == null)
+        {
+            MessageBox.Show("الرجاء اختيار نوع رخصة القيادة.");
+            return;
+        }
+            // إضافة السطر التالي لأخذ نوع الرخصة // LicenseType is an enum in RentalManager
+               LicenseType selectedLicenseType = (LicenseType)LicenseTypeComboBox.SelectedItem;
+
 
                 // التأكد إن العميل مش موجود
                 if (RentalManager.Customers.Exists(c => c.Id == customerId))
@@ -47,20 +67,24 @@ namespace project_4
                     Id = customerId,
                     Name = name,
                     Phone = phone,
-                    LicenseNumber = licenseNumber
+                    LicenseNumber = licenseNumber,
+                    IsLicenseEgyptianOrNot = selectedLicenseType // إضافة الخاصية هنا
                 });
 
+                // إظهار رسالة إضافة العميل بنجاح
                 MessageBox.Show("تم إضافة العميل بنجاح!");
                 this.Close();
             }
             catch (Exception ex)
             {
+                // إظهار رسالة خطأ
                 MessageBox.Show($"حصل خطأ: {ex.Message}");
             }
         }
 
         private void CancelButton_Click(object sender, EventArgs e)
         {
+            // إغلاق النافذة
             this.Close();
         }
 
@@ -68,10 +92,10 @@ namespace project_4
         {
 
         }
-
-        private void AddCustomerForm_Load(object sender, EventArgs e)
-        {
-
+private void AddCustomerForm_Load(object sender, EventArgs e)
+{
+            LicenseTypeComboBox.DataSource = Enum.GetValues(typeof(LicenseType));
+            LicenseTypeComboBox.SelectedIndex = 0; // اختيار القيمة الأولى كافتراضي
         }
 
         private void PhoneTextBox_TextChanged(object sender, EventArgs e)
@@ -80,6 +104,21 @@ namespace project_4
         }
 
         private void CustomerIdTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void NameTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LicenseTypeComboBox_SelectChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LicenseTypeComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

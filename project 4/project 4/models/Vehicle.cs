@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,17 +9,22 @@ namespace project_4.models
     internal class Vehicle
     {
         public int VehicleID { get; set; }
+        public string Brand { get; set; } // moved from derived classes
         public string Model { get; set; }
         public int Price { get; set; }
         public bool IsAvailable { get; set; } = true;
 
-        // خاصية جديدة لعرض الموديل مع الرقم في الـ ComboBox
-        public string DisplayText => $"#{VehicleID} - {Model} ({(IsAvailable ? "متاحة" : "محجوزة")})";
+        // عرض المركبة في القوائم
+        public string DisplayText => $"#{VehicleID} - {Brand} {Model} ({(IsAvailable ? "متاحة" : "محجوزة")})";
         public Vehicle() { }
 
-        public Vehicle(int id, string model, int price)
+        // constructor including Brand
+        // البناء الرئيسي لإنشاء مركبة جديدة
+        // يتطلب إدخال البيانات الأساسية للمركبة
+        public Vehicle(int id, string brand, string model, int price)
         {
             VehicleID = id;
+            Brand = brand;
             Model = model;
             Price = price;
             IsAvailable = true;
@@ -27,7 +32,7 @@ namespace project_4.models
 
         public override string ToString()
         {
-            return $"{VehicleID}, {Model}, {Price}, {IsAvailable}";
+            return $"{VehicleID}, {Brand}, {Model}, {Price}, {IsAvailable}";
         }
     }
 }

@@ -15,13 +15,14 @@ namespace project_4
     {
         public ViewBookingsForm()
         {
-            InitializeComponent();
+            InitializeComponent();//static with any form
             LoadBookings();
         }
 
         private void LoadBookings()
         {
             ///LoadBookings() بتجيب كل الحجوزات من RentalManager.Bookings وتعرضهم في BookingsList (الـ ListBox). 
+            
             BookingsList.DataSource = null;
             BookingsList.DataSource = RentalManager.GetBookings();
         }
