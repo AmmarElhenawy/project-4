@@ -1,1 +1,8 @@
-[{"VehicleID":1,"Brand":null,"Model":"Corolla","Price":50,"IsAvailable":false,"DisplayText":"#1 -  Corolla (محجوزة)"},{"VehicleID":2,"Brand":null,"Model":"Tucson","Price":70,"IsAvailable":true,"DisplayText":"#2 -  Tucson (متاحة)"},{"VehicleID":3,"Brand":null,"Model":"Model 3","Price":100,"IsAvailable":false,"DisplayText":"#3 -  Model 3 (محجوزة)"},{"VehicleID":4,"Brand":null,"Model":"Street 750","Price":40,"IsAvailable":true,"DisplayText":"#4 -  Street 750 (متاحة)"},{"VehicleID":5,"Brand":null,"Model":"YZF R3","Price":45,"IsAvailable":true,"DisplayText":"#5 -  YZF R3 (متاحة)"}]
+[{"VehicleID":1,"Brand":null,"Model":"Corolla","Price":50,"IsAvailable":true,"DisplayText":"#1 -  Corolla (محجوزة)"}
+,{"VehicleID":2,"Brand":null,"Model":"Tucson","Price":70,"IsAvailable":true,"DisplayText":"#2 -  Tucson (متاحة)"},
+{"VehicleID":3,"Brand":null,"Model":"Model 3","Price":100,"IsAvailable":true,"DisplayText":"#3 -  Model 3 (محجوزة)"},
+{"VehicleID":4,"Brand":null,"Model":"Street 750","Price":40,"IsAvailable":true,"DisplayText":"#4 -  Street 750 (متاحة)"},
+{"VehicleID":5,"Brand":null,"Model":"YZF R3","Price":45,"IsAvailable":true,"DisplayText":"#5 -  YZF R3 (متاحة)"},
+{"VehicleID":6,"Brand":null,"Model":"YZF R6","Price":70,"IsAvailable":true,"DisplayText":"#6 -  YZF R3 (متاحة)"}
+{"VehicleID":7,"Brand":"kawsake","Model":"ninja","Price":70,"IsAvailable":true,"DisplayText":"#7 -  ninja (متاحة)"}
+]

@@ -17,8 +17,8 @@ namespace project_4.models
             new Car(2, "BMW", "X5", CarType.SUV, 350, 7, 300),
             new Car(3, "Nissan", "Altima", CarType.Sedan, 250, 4, 200),
             new Motorcycle(101, "Honda", "CBR", BikeType.Sport, 150, true),
-            new Motorcycle(102, "Yamaha", "MT-07", BikeType.Sport, 100, false),
-            new Motorcycle(103, "Kawasaki", "Ninja", BikeType.Sport, 180, false)
+            new Motorcycle(102, "Yamaha", "MT-07", BikeType.Sport, 100, true),
+            new Motorcycle(103, "Kawasaki", "Ninja", BikeType.Sport, 180, true)
         };
 
         public static List<Customer> Customers { get; set; } = new List<Customer>
@@ -36,7 +36,15 @@ namespace project_4.models
 
         public static List<Vehicle> GetAvailableVehicles()
         {
-            return Vehicles.Where(v => v.IsAvailable).ToList();
+            var vehicles = Vehicles.Where(v => v.IsAvailable).ToList();
+            foreach (var v in vehicles)
+            {
+                if (v.GetType().Name == "Car")
+                    v.GetType().GetProperty("Model")?.SetValue(v, v.Model + " (عربية)");
+                else if (v.GetType().Name == "Motorcycle")
+                    v.GetType().GetProperty("Model")?.SetValue(v, v.Model + " (موتوسيكل)");
+            }
+            return vehicles;
         }
 
         public static List<Car> GetAvailableCars()
@@ -156,7 +164,16 @@ namespace project_4.models
                     {
                         Vehicles.Clear();
                         Vehicles.AddRange(loadedVehicles);
+                        Console.WriteLine($"Loaded {loadedVehicles.Count} vehicles from JSON.");
                     }
+                    else
+                    {
+                        Console.WriteLine("Failed to deserialize vehicles from JSON.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("vehicles.json file not found, using default vehicle list.");
                 }
 
                 if (File.Exists(Path.Combine(appPath, "bookings.json")))
@@ -167,7 +184,16 @@ namespace project_4.models
                     {
                         Bookings.Clear();
                         Bookings.AddRange(loadedBookings);
+                        Console.WriteLine($"Loaded {loadedBookings.Count} bookings from JSON.");
                     }
+                    else
+                    {
+                        Console.WriteLine("Failed to deserialize bookings from JSON.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("bookings.json file not found, using empty booking list.");
                 }
 
                 if (File.Exists(Path.Combine(appPath, "customers.json")))
@@ -178,7 +204,16 @@ namespace project_4.models
                     {
                         Customers.Clear();
                         Customers.AddRange(loadedCustomers);
+                        Console.WriteLine($"Loaded {loadedCustomers.Count} customers from JSON.");
                     }
+                    else
+                    {
+                        Console.WriteLine("Failed to deserialize customers from JSON.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("customers.json file not found, using default customer list.");
                 }
             }
             catch (Exception ex)

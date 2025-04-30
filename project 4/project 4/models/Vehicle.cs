@@ -9,7 +9,8 @@ namespace project_4.models
     internal class Vehicle
     {
         public int VehicleID { get; set; }
-        public string Brand { get; set; } // moved from derived classes
+        // public string Manufacturer { get; set; }    
+            public string Brand { get; set; } // moved from derived classes
         public string Model { get; set; }
         public int Price { get; set; }
         public bool IsAvailable { get; set; } = true;

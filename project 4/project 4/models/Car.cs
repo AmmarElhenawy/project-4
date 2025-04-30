@@ -12,9 +12,8 @@ namespace project_4.models
         public CarType Type { get; set; }
         public int BagCapacity { get; set; } // سعة الأكياس
         public int PassengerCapacity { get; set; } // سعة الركاب
-        public object Manufacturer { get; internal set; }
-        public object NoOfPassengers { get; internal set; }
-
+        // public object Manufacturer { get; internal set; }
+        // public object NoOfPassengers { get; internal set; }
         // البناء الرئيسي لإنشاء سيارة جديدة
         // يتطلب إدخال البيانات الأساسية للسيارة
         public Car(int id, string brand, string model, CarType type, int price, int bagCapacity, int passengerCapacity)
@@ -27,7 +26,8 @@ namespace project_4.models
 
         public override string ToString()
         {
-            return $"{VehicleID}, {Brand}, {Model}, Bags:{BagCapacity}, Passengers:{PassengerCapacity}, {Type}, {Price}, {IsAvailable}";
+            return $"{VehicleID}, {Brand} {Model}, Bags: {BagCapacity}, Passengers: {PassengerCapacity}, Type: {Type}, Price: {Price}, Available: {IsAvailable}";
         }
+
     }
 }

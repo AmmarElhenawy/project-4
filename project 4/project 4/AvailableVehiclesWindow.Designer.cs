@@ -1,4 +1,4 @@
-﻿using System.Windows.Forms;
+using System.Windows.Forms;
 using System;
 
 namespace project_4
@@ -33,11 +33,9 @@ namespace project_4
         private void InitializeComponent()
         {
             this.labelCars = new System.Windows.Forms.Label();
-            this.dataGridViewCars = new System.Windows.Forms.DataGridView();
             this.labelMotorcycles = new System.Windows.Forms.Label();
-            this.dataGridViewMotorcycles = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCars)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewMotorcycles)).BeginInit();
+            this.dataGridViewVehicles = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVehicles)).BeginInit();
             this.SuspendLayout();
             // 
             // labelCars
@@ -50,16 +48,6 @@ namespace project_4
             this.labelCars.TabIndex = 0;
             this.labelCars.Text = "عربيات";
             // 
-            // dataGridViewCars
-            // 
-            this.dataGridViewCars.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewCars.Location = new System.Drawing.Point(12, 35);
-            this.dataGridViewCars.Name = "dataGridViewCars";
-            this.dataGridViewCars.RowHeadersWidth = 51;
-            this.dataGridViewCars.Size = new System.Drawing.Size(760, 180);
-            this.dataGridViewCars.TabIndex = 1;
-            this.dataGridViewCars.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCars_CellContentClick);
-            // 
             // labelMotorcycles
             // 
             this.labelMotorcycles.AutoSize = true;
@@ -70,30 +58,27 @@ namespace project_4
             this.labelMotorcycles.TabIndex = 2;
             this.labelMotorcycles.Text = "موتوسيكلات";
             // 
-            // dataGridViewMotorcycles
+            // dataGridViewVehicles
             // 
-            this.dataGridViewMotorcycles.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewMotorcycles.Location = new System.Drawing.Point(12, 251);
-            this.dataGridViewMotorcycles.Name = "dataGridViewMotorcycles";
-            this.dataGridViewMotorcycles.RowHeadersWidth = 51;
-            this.dataGridViewMotorcycles.Size = new System.Drawing.Size(760, 180);
-            this.dataGridViewMotorcycles.TabIndex = 3;
-            this.dataGridViewMotorcycles.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMotorcycles_CellContentClick);
+            this.dataGridViewVehicles.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridViewVehicles.Location = new System.Drawing.Point(0, 0);
+            this.dataGridViewVehicles.Name = "dataGridViewVehicles";
+            this.dataGridViewVehicles.RowHeadersWidth = 51;
+            this.dataGridViewVehicles.Size = new System.Drawing.Size(800, 450);
+            this.dataGridViewVehicles.TabIndex = 3;
             // 
             // AvailableVehiclesForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dataGridViewMotorcycles);
+            this.Controls.Add(this.dataGridViewVehicles);
             this.Controls.Add(this.labelMotorcycles);
-            this.Controls.Add(this.dataGridViewCars);
             this.Controls.Add(this.labelCars);
             this.Name = "AvailableVehiclesForm";
             this.Text = "المركبات المتاحة";
-            // this.Load += new System.EventHandler(this.AvailableVehiclesForm_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCars)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewMotorcycles)).EndInit();
+            this.Load += new System.EventHandler(this.AvailableVehiclesForm_Load_1);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVehicles)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -112,9 +97,8 @@ namespace project_4
         #endregion
 
         private System.Windows.Forms.Label labelCars;
-        private System.Windows.Forms.DataGridView dataGridViewCars;
         private System.Windows.Forms.Label labelMotorcycles;
-        private System.Windows.Forms.DataGridView dataGridViewMotorcycles;
+        private System.Windows.Forms.DataGridView dataGridViewVehicles;
 
         // private void AvailableVehiclesForm_Load(object sender, EventArgs e)
         // {

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +12,8 @@ namespace project_4.models
     {
         public BikeType Type { get; set; }
         public bool HasSidecar { get; set; } // وجود مقطورة جانبية
-        public object Manufacturer { get; internal set; }
-        public bool HasSideCar { get; internal set; }
-
+        // public object Manufacturer { get; internal set; }
+        // public bool HasSideCar { get; internal set; }
         // البناء الرئيسي لإنشاء دراجة جديدة
         // يتطلب إدخال البيانات الأساسية للدراجة
         public Motorcycle(int id, string brand, string model, BikeType type, int price, bool hasSidecar)
@@ -26,7 +25,8 @@ namespace project_4.models
 
         public override string ToString()
         {
-            return $"{VehicleID}, {Model}, Sidecar:{(HasSidecar ? "Yes" : "No")}, {Type}, {Price}, {IsAvailable}";
+            return $"{VehicleID}, {Brand} {Model}, Sidecar: {(HasSidecar ? "Yes" : "No")}, Type: {Type}, Price: {Price}, Available: {IsAvailable}";
         }
+
     }
 }
