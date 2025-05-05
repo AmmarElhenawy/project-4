@@ -61,7 +61,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(239, 54);
             this.button3.TabIndex = 2;
-            this.button3.Text = "booking";
+            this.button3.Text = "Booking";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -71,7 +71,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(239, 48);
             this.button5.TabIndex = 4;
-            this.button5.Text = "return";
+            this.button5.Text = "Return";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
@@ -81,7 +81,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(239, 45);
             this.button6.TabIndex = 5;
-            this.button6.Text = "show bookings";
+            this.button6.Text = "Show Bookings";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 

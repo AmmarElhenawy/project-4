@@ -1,8 +1,71 @@
-[{"VehicleID":1,"Brand":null,"Model":"Corolla","Price":50,"IsAvailable":true,"DisplayText":"#1 -  Corolla (محجوزة)"}
-,{"VehicleID":2,"Brand":null,"Model":"Tucson","Price":70,"IsAvailable":true,"DisplayText":"#2 -  Tucson (متاحة)"},
-{"VehicleID":3,"Brand":null,"Model":"Model 3","Price":100,"IsAvailable":true,"DisplayText":"#3 -  Model 3 (محجوزة)"},
-{"VehicleID":4,"Brand":null,"Model":"Street 750","Price":40,"IsAvailable":true,"DisplayText":"#4 -  Street 750 (متاحة)"},
-{"VehicleID":5,"Brand":null,"Model":"YZF R3","Price":45,"IsAvailable":true,"DisplayText":"#5 -  YZF R3 (متاحة)"},
-{"VehicleID":6,"Brand":null,"Model":"YZF R6","Price":70,"IsAvailable":true,"DisplayText":"#6 -  YZF R3 (متاحة)"}
-{"VehicleID":7,"Brand":"kawsake","Model":"ninja","Price":70,"IsAvailable":true,"DisplayText":"#7 -  ninja (متاحة)"}
+[
+  {
+    "$type": "project_4.models.Car, project 4",
+    "Type": 0,
+    "BagCapacity": 5,
+    "PassengerCapacity": 250,
+    "VehicleID": 1,
+    "Brand": "Toyota",
+    "Model": "Corolla (عربيه)",
+    "Price": 200,
+    "IsAvailable": true,
+    "DisplayText": "#1 - Toyota Corolla (عربيه) (متاحة)"
+  },
+  {
+    "$type": "project_4.models.Car, project 4",
+    "Type": 1,
+    "BagCapacity": 7,
+    "PassengerCapacity": 300,
+    "VehicleID": 2,
+    "Brand": "BMW",
+    "Model": "X5 (عربيه)",
+    "Price": 350,
+    "IsAvailable": true,
+    "DisplayText": "#2 - BMW X5 (عربيه) (متاحة)"
+  },
+  {
+    "$type": "project_4.models.Car, project 4",
+    "Type": 0,
+    "BagCapacity": 4,
+    "PassengerCapacity": 200,
+    "VehicleID": 3,
+    "Brand": "Nissan",
+    "Model": "Altima (عربيه)",
+    "Price": 250,
+    "IsAvailable": true,
+    "DisplayText": "#3 - Nissan Altima (عربيه)  (متاحة)"
+  },
+  {
+    "$type": "project_4.models.Motorcycle, project 4",
+    "Type": 1,
+    "HasSidecar": true,
+    "VehicleID": 101,
+    "Brand": "Honda",
+    "Model": "CBR (موتوسيكل)",
+    "Price": 150,
+    "IsAvailable": true,
+    "DisplayText": "#101 - Honda CBR (موتوسيكل)  (متاحة)"
+  },
+  {
+    "$type": "project_4.models.Motorcycle, project 4",
+    "Type": 1,
+    "HasSidecar": true,
+    "VehicleID": 102,
+    "Brand": "Yamaha",
+    "Model": "MT-07 (موتوسيكل) ",
+    "Price": 100,
+    "IsAvailable": true,
+    "DisplayText": "#102 - Yamaha MT-07 (موتوسيكل) (متاحة)"
+  },
+  {
+    "$type": "project_4.models.Motorcycle, project 4",
+    "Type": 1,
+    "HasSidecar": true,
+    "VehicleID": 103,
+    "Brand": "Kawasaki",
+    "Model": "Ninja (موتوسيكل)",
+    "Price": 180,
+    "IsAvailable": false,
+    "DisplayText": "#103 - Kawasaki Ninja (موتوسيكل)  (محجوزة)"
+  }
 ]

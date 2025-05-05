@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace project_4.models
 {
+    //enum تعريف مجموعه من القيم الثابته
     public enum CarType { Sedan, SUV, Hatchback, Convertible }
     internal class Car : Vehicle
     {
@@ -19,6 +20,8 @@ namespace project_4.models
         public Car(int id, string brand, string model, CarType type, int price, int bagCapacity, int passengerCapacity)
             : base(id, brand, model, price)
         {
+            //base is call construct تستدعاالكاءنات الخاصه بلملف الاب
+
             Type = type;
             BagCapacity = bagCapacity;
             PassengerCapacity = passengerCapacity;

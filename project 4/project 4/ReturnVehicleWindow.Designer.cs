@@ -45,7 +45,7 @@
             this.ReturnButton.Name = "ReturnButton";
             this.ReturnButton.Size = new System.Drawing.Size(100, 30);
             this.ReturnButton.TabIndex = 2;
-            this.ReturnButton.Text = "إرجاع";
+            this.ReturnButton.Text = "Return";
             this.ReturnButton.Click += new System.EventHandler(this.ReturnButton_Click);
             // 
             // CancelButton
@@ -54,17 +54,17 @@
             this.CancelButton.Name = "CancelButton";
             this.CancelButton.Size = new System.Drawing.Size(100, 30);
             this.CancelButton.TabIndex = 3;
-            this.CancelButton.Text = "إلغاء";
+            this.CancelButton.Text = "Close";
             this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 20);
+            this.label1.Location = new System.Drawing.Point(10, 21);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(142, 16);
+            this.label1.Size = new System.Drawing.Size(164, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "اختر المركبة المراد إرجاعها:";
+            this.label1.Text = " Select Vehicle To Return :";
             // 
             // ReturnVehicleForm
             // 
@@ -74,7 +74,7 @@
             this.Controls.Add(this.ReturnButton);
             this.Controls.Add(this.CancelButton);
             this.Name = "ReturnVehicleForm";
-            this.Text = "إرجاع مركبة";
+            this.Text = "Return Vehicle ";
             this.Load += new System.EventHandler(this.ReturnVehicleForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

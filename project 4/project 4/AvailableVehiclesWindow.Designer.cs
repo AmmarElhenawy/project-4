@@ -60,12 +60,14 @@ namespace project_4
             // 
             // dataGridViewVehicles
             // 
+            this.dataGridViewVehicles.ColumnHeadersHeight = 29;
             this.dataGridViewVehicles.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridViewVehicles.Location = new System.Drawing.Point(0, 0);
             this.dataGridViewVehicles.Name = "dataGridViewVehicles";
             this.dataGridViewVehicles.RowHeadersWidth = 51;
             this.dataGridViewVehicles.Size = new System.Drawing.Size(800, 450);
             this.dataGridViewVehicles.TabIndex = 3;
+            this.dataGridViewVehicles.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewVehicles_CellContentClick);
             // 
             // AvailableVehiclesForm
             // 
@@ -76,8 +78,7 @@ namespace project_4
             this.Controls.Add(this.labelMotorcycles);
             this.Controls.Add(this.labelCars);
             this.Name = "AvailableVehiclesForm";
-            this.Text = "المركبات المتاحة";
-            this.Load += new System.EventHandler(this.AvailableVehiclesForm_Load_1);
+            this.Text = "Available Vehicle";            this.Load += new System.EventHandler(this.AvailableVehiclesForm_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVehicles)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

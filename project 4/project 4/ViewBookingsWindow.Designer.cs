@@ -43,7 +43,7 @@
             this.CloseButton.Name = "CloseButton";
             this.CloseButton.Size = new System.Drawing.Size(100, 30);
             this.CloseButton.TabIndex = 1;
-            this.CloseButton.Text = "إغلاق";
+            this.CloseButton.Text = "Close";
             this.CloseButton.Click += new System.EventHandler(this.CloseButton_Click);
             // 
             // ViewBookingsForm
@@ -52,7 +52,7 @@
             this.Controls.Add(this.BookingsList);
             this.Controls.Add(this.CloseButton);
             this.Name = "ViewBookingsForm";
-            this.Text = "عرض الحجوزات";
+            this.Text = "Show Bookings ";
             this.ResumeLayout(false);
 
         }

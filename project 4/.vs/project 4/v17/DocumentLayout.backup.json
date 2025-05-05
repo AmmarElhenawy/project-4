@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|c:\\users\\ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\retnalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\retnalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\availablevehicleswindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\availablevehicleswindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,56 +35,80 @@
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\availablevehicleswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\retnalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\retnalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\availablevehicleswindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\availablevehicleswindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\AddCustomerWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\AvailableVehiclesWindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\AvailableVehiclesWindow1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\returnvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\returnvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\ReturnVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\BookVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\bookvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\bookvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\ViewBookingsWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\viewbookingswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\viewbookingswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|c:\\users\\ammar\\source\\repos\\project 4\\project 4\\project 4\\returnvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\returnvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\bookvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\bookvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\bookvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\bookvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\AddCustomerWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\models\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ammar\\AppData\\Local\\Temp\\.vsdbgsrc\\de852a25ea89851e86422d2b1e4ba1e75fe9751905c57a41829932bf3f087a14\\RentalManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -77,43 +117,15 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ammar\\AppData\\Local\\Temp\\.vsdbgsrc\\0646a744780269929671117932e0f4e9ff138dd1803e1f2e5274358ab8b5ac30\\AvailableVehiclesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\ReturnVehicleWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\returnvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\returnvehiclewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\addcustomerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ammar\\AppData\\Local\\Temp\\.vsdbgsrc\\736e865ea322d33d6e17d79c2cf08d74ac703eb5cc9a9f96dd040e5559db8826\\ViewBookingsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\BookVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\addcustomerwindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\addcustomerwindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\ReturnVehicleWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\returnvehiclewindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\returnvehiclewindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\viewbookingswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\viewbookingswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,18 +150,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\ViewBookingsWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\AvailableVehiclesWindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA40518-4C7E-440D-8FA2-958D83BC20DE}|project 4\\project 4.csproj|solutionrelative:project 4\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -159,7 +159,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -167,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Program.cs",
               "RelativeDocumentMoniker": "project 4\\Program.cs",
@@ -180,57 +180,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AvailableVehiclesWindow.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs",
-              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswCcAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs",
+              "RelativeDocumentMoniker": "project 4\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs",
+              "RelativeToolTip": "project 4\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T00:15:02.546Z",
+              "WhenOpened": "2025-04-28T11:39:20.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AvailableVehiclesWindow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs [Design]",
-              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "AvailableVehiclesWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.Designer.cs",
+              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwGQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T12:53:27.432Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Motorcycle.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Motorcycle.cs",
-              "RelativeDocumentMoniker": "project 4\\models\\Motorcycle.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Motorcycle.cs",
-              "RelativeToolTip": "project 4\\models\\Motorcycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T12:22:36.946Z",
+              "WhenOpened": "2025-04-28T12:53:32.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddCustomerWindow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs [Design]",
-              "RelativeToolTip": "project 4\\AddCustomerWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:09:11.483Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Customer.cs",
               "RelativeDocumentMoniker": "project 4\\models\\Customer.cs",
@@ -243,67 +219,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RetnalManager.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\RetnalManager.cs",
-              "RelativeDocumentMoniker": "project 4\\models\\RetnalManager.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\RetnalManager.cs",
-              "RelativeToolTip": "project 4\\models\\RetnalManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Booking.cs",
+              "RelativeDocumentMoniker": "project 4\\models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Booking.cs",
+              "RelativeToolTip": "project 4\\models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T15:21:23.379Z",
+              "WhenOpened": "2025-04-29T01:08:17.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AvailableVehiclesWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs",
+              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:15:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "project 4\\models\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Motorcycle.cs",
+              "RelativeToolTip": "project 4\\models\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:22:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Car.cs",
               "RelativeDocumentMoniker": "project 4\\models\\Car.cs",
               "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Car.cs",
               "RelativeToolTip": "project 4\\models\\Car.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T01:08:25.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "project 4\\models\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Vehicle.cs",
-              "RelativeToolTip": "project 4\\models\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "RetnalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\RetnalManager.cs",
+              "RelativeDocumentMoniker": "project 4\\models\\RetnalManager.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\RetnalManager.cs",
+              "RelativeToolTip": "project 4\\models\\RetnalManager.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAuwHAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T01:08:47.409Z",
+              "WhenOpened": "2025-04-28T15:21:23.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AvailableVehiclesWindow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.Designer.cs",
-              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.Designer.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAMwF0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AvailableVehiclesWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.cs [Design]",
+              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T12:53:32.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T12:53:27.432Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AddCustomerWindow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.Designer.cs",
-              "RelativeToolTip": "project 4\\AddCustomerWindow.Designer.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAtwKMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:11:58.98Z",
+              "Title": "AvailableVehiclesWindow.resx",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.resx",
+              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.resx",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.resx",
+              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-28T12:56:37.131Z",
               "EditorCaption": ""
             },
             {
@@ -316,92 +316,210 @@
               "RelativeToolTip": "project 4\\AvailableVehiclesWindow1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T01:29:10.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs",
-              "RelativeDocumentMoniker": "project 4\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs",
-              "RelativeToolTip": "project 4\\Form2.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIA1wDIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:39:20.108Z"
+              "WhenOpened": "2025-04-29T01:29:10.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs",
-              "RelativeDocumentMoniker": "project 4\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs [Design]",
-              "RelativeToolTip": "project 4\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:24:42.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Booking.cs",
-              "RelativeDocumentMoniker": "project 4\\models\\Booking.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Booking.cs",
-              "RelativeToolTip": "project 4\\models\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T01:08:17.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BookVehicleWindow.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\BookVehicleWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs",
-              "RelativeToolTip": "project 4\\BookVehicleWindow.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:26:42.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookVehicleWindow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\BookVehicleWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs [Design]",
-              "RelativeToolTip": "project 4\\BookVehicleWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:25:09.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.Designer.cs",
-              "RelativeToolTip": "project 4\\Form2.Designer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwG4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T12:17:49.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "ReturnVehicleWindow.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs",
               "RelativeDocumentMoniker": "project 4\\ReturnVehicleWindow.cs",
               "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs [Design]",
               "RelativeToolTip": "project 4\\ReturnVehicleWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:33:33.551Z"
+              "WhenOpened": "2025-04-29T02:33:33.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReturnVehicleWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\ReturnVehicleWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.Designer.cs",
+              "RelativeToolTip": "project 4\\ReturnVehicleWindow.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:34:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookVehicleWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\BookVehicleWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.Designer.cs",
+              "RelativeToolTip": "project 4\\BookVehicleWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:28:12.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs",
+              "RelativeDocumentMoniker": "project 4\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.cs [Design]",
+              "RelativeToolTip": "project 4\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:24:42.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.Designer.cs",
+              "RelativeToolTip": "project 4\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:17:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.Designer.cs",
+              "RelativeToolTip": "project 4\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:22:26.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.cs",
+              "RelativeDocumentMoniker": "project 4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.cs [Design]",
+              "RelativeToolTip": "project 4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:37:33.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewBookingsWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\ViewBookingsWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.Designer.cs",
+              "RelativeToolTip": "project 4\\ViewBookingsWindow.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:38:56.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ViewBookingsWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\ViewBookingsWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.cs [Design]",
+              "RelativeToolTip": "project 4\\ViewBookingsWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:37:31.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReturnVehicleWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\ReturnVehicleWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs",
+              "RelativeToolTip": "project 4\\ReturnVehicleWindow.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:33:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookVehicleWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\BookVehicleWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs [Design]",
+              "RelativeToolTip": "project 4\\BookVehicleWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:25:09.842Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "BookVehicleWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\BookVehicleWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.cs",
+              "RelativeToolTip": "project 4\\BookVehicleWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:26:42.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCustomerWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs",
+              "RelativeToolTip": "project 4\\AddCustomerWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:12:06.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddCustomerWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs",
+              "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs [Design]",
+              "RelativeToolTip": "project 4\\AddCustomerWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:09:11.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddCustomerWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.Designer.cs",
+              "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.Designer.cs",
+              "RelativeToolTip": "project 4\\AddCustomerWindow.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAtwKMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:11:58.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "project 4\\models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\models\\Vehicle.cs",
+              "RelativeToolTip": "project 4\\models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:08:47.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "ViewBookingsForm.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\AppData\\Local\\Temp\\.vsdbgsrc\\736e865ea322d33d6e17d79c2cf08d74ac703eb5cc9a9f96dd040e5559db8826\\ViewBookingsForm.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\736e865ea322d33d6e17d79c2cf08d74ac703eb5cc9a9f96dd040e5559db8826\\ViewBookingsForm.cs",
@@ -414,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "RentalManager.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\AppData\\Local\\Temp\\.vsdbgsrc\\de852a25ea89851e86422d2b1e4ba1e75fe9751905c57a41829932bf3f087a14\\RentalManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\de852a25ea89851e86422d2b1e4ba1e75fe9751905c57a41829932bf3f087a14\\RentalManager.cs",
@@ -426,19 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReturnVehicleWindow.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\ReturnVehicleWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.cs",
-              "RelativeToolTip": "project 4\\ReturnVehicleWindow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:33:35.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "AvailableVehiclesForm.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\AppData\\Local\\Temp\\.vsdbgsrc\\0646a744780269929671117932e0f4e9ff138dd1803e1f2e5274358ab8b5ac30\\AvailableVehiclesForm.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0646a744780269929671117932e0f4e9ff138dd1803e1f2e5274358ab8b5ac30\\AvailableVehiclesForm.cs",
@@ -450,56 +556,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddCustomerWindow.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.cs",
-              "RelativeToolTip": "project 4\\AddCustomerWindow.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAhwGAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:12:06.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BookVehicleWindow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\BookVehicleWindow.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\BookVehicleWindow.Designer.cs",
-              "RelativeToolTip": "project 4\\BookVehicleWindow.Designer.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:28:12.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "AddCustomerWindow.resx",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.resx",
               "RelativeDocumentMoniker": "project 4\\AddCustomerWindow.resx",
               "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AddCustomerWindow.resx",
               "RelativeToolTip": "project 4\\AddCustomerWindow.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-29T18:47:20.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T18:47:20.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ReturnVehicleWindow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\ReturnVehicleWindow.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.Designer.cs",
-              "RelativeToolTip": "project 4\\ReturnVehicleWindow.Designer.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwC8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:34:25.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "ReturnVehicleWindow.resx",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ReturnVehicleWindow.resx",
               "RelativeDocumentMoniker": "project 4\\ReturnVehicleWindow.resx",
@@ -510,29 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.cs",
-              "RelativeDocumentMoniker": "project 4\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.cs [Design]",
-              "RelativeToolTip": "project 4\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T10:37:33.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ViewBookingsWindow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.cs",
-              "RelativeDocumentMoniker": "project 4\\ViewBookingsWindow.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.cs [Design]",
-              "RelativeToolTip": "project 4\\ViewBookingsWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:37:31.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.cs",
               "RelativeDocumentMoniker": "project 4\\Form1.cs",
@@ -540,11 +586,12 @@
               "RelativeToolTip": "project 4\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T10:54:46.869Z"
+              "WhenOpened": "2025-04-28T10:54:46.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ViewBookingsWindow.cs",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.cs",
               "RelativeDocumentMoniker": "project 4\\ViewBookingsWindow.cs",
@@ -552,11 +599,12 @@
               "RelativeToolTip": "project 4\\ViewBookingsWindow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:37:40.675Z"
+              "WhenOpened": "2025-04-29T02:37:40.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "project 4.csproj",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\project 4.csproj",
               "RelativeDocumentMoniker": "project 4\\project 4.csproj",
@@ -568,61 +616,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Form2.resx",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.resx",
               "RelativeDocumentMoniker": "project 4\\Form2.resx",
               "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form2.resx",
               "RelativeToolTip": "project 4\\Form2.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-29T00:05:24.279Z"
+              "WhenOpened": "2025-04-29T00:05:24.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.resx",
               "RelativeDocumentMoniker": "project 4\\Form1.resx",
               "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.resx",
               "RelativeToolTip": "project 4\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-28T12:46:55.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ViewBookingsWindow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\ViewBookingsWindow.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\ViewBookingsWindow.Designer.cs",
-              "RelativeToolTip": "project 4\\ViewBookingsWindow.Designer.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwDsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:38:56.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AvailableVehiclesWindow.resx",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.resx",
-              "RelativeDocumentMoniker": "project 4\\AvailableVehiclesWindow.resx",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\AvailableVehiclesWindow.resx",
-              "RelativeToolTip": "project 4\\AvailableVehiclesWindow.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-28T12:56:37.131Z",
+              "WhenOpened": "2025-04-28T12:46:55.715Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "project 4\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Ammar\\source\\repos\\project 4\\project 4\\project 4\\Form1.Designer.cs",
-              "RelativeToolTip": "project 4\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T12:22:26.739Z"
             }
           ]
         }

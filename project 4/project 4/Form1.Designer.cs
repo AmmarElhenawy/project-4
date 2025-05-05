@@ -50,7 +50,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.b1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Vehicle Rental System";
             this.ResumeLayout(false);
 
         }

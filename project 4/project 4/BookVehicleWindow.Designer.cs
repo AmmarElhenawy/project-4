@@ -78,7 +78,7 @@
             this.ConfirmButton.Name = "ConfirmButton";
             this.ConfirmButton.Size = new System.Drawing.Size(100, 30);
             this.ConfirmButton.TabIndex = 4;
-            this.ConfirmButton.Text = "تأكيد الحجز";
+            this.ConfirmButton.Text = "Confirm ";
             this.ConfirmButton.UseVisualStyleBackColor = true;
             this.ConfirmButton.Click += new System.EventHandler(this.ConfirmButton_Click);
             // 
@@ -88,45 +88,45 @@
             this.CancelButton.Name = "CancelButton";
             this.CancelButton.Size = new System.Drawing.Size(100, 30);
             this.CancelButton.TabIndex = 5;
-            this.CancelButton.Text = "إلغاء";
+            this.CancelButton.Text = "close";
             this.CancelButton.UseVisualStyleBackColor = true;
             this.CancelButton.Click += new System.EventHandler(this.CancelButton_Click);
             // 
             // CustomerLabel
             // 
             this.CustomerLabel.AutoSize = true;
-            this.CustomerLabel.Location = new System.Drawing.Point(30, 23);
+            this.CustomerLabel.Location = new System.Drawing.Point(12, 23);
             this.CustomerLabel.Name = "CustomerLabel";
-            this.CustomerLabel.Size = new System.Drawing.Size(63, 16);
+            this.CustomerLabel.Size = new System.Drawing.Size(110, 16);
             this.CustomerLabel.TabIndex = 6;
-            this.CustomerLabel.Text = "اختر العميل:";
+            this.CustomerLabel.Text = "choose customer";
             // 
             // VehicleLabel
             // 
             this.VehicleLabel.AutoSize = true;
-            this.VehicleLabel.Location = new System.Drawing.Point(30, 63);
+            this.VehicleLabel.Location = new System.Drawing.Point(12, 63);
             this.VehicleLabel.Name = "VehicleLabel";
-            this.VehicleLabel.Size = new System.Drawing.Size(69, 16);
+            this.VehicleLabel.Size = new System.Drawing.Size(105, 16);
             this.VehicleLabel.TabIndex = 7;
-            this.VehicleLabel.Text = "اختر المركبة:";
+            this.VehicleLabel.Text = "choose vehicles";
             // 
             // StartDateLabel
             // 
             this.StartDateLabel.AutoSize = true;
-            this.StartDateLabel.Location = new System.Drawing.Point(30, 103);
+            this.StartDateLabel.Location = new System.Drawing.Point(24, 105);
             this.StartDateLabel.Name = "StartDateLabel";
-            this.StartDateLabel.Size = new System.Drawing.Size(68, 16);
+            this.StartDateLabel.Size = new System.Drawing.Size(69, 16);
             this.StartDateLabel.TabIndex = 8;
-            this.StartDateLabel.Text = "تاريخ البداية:";
+            this.StartDateLabel.Text = " Start Date";
             // 
             // EndDateLabel
             // 
             this.EndDateLabel.AutoSize = true;
             this.EndDateLabel.Location = new System.Drawing.Point(30, 143);
             this.EndDateLabel.Name = "EndDateLabel";
-            this.EndDateLabel.Size = new System.Drawing.Size(71, 16);
+            this.EndDateLabel.Size = new System.Drawing.Size(63, 16);
             this.EndDateLabel.TabIndex = 9;
-            this.EndDateLabel.Text = "تاريخ النهاية:";
+            this.EndDateLabel.Text = "End Date";
             // 
             // BookVehicleForm
             // 
@@ -144,7 +144,7 @@
             this.Controls.Add(this.VehicleComboBox);
             this.Controls.Add(this.CustomerComboBox);
             this.Name = "BookVehicleForm";
-            this.Text = "حجز مركبة";
+            this.Text = "BookVehicle ";
             this.Load += new System.EventHandler(this.BookVehicleForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
