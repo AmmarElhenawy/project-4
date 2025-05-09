@@ -5,5 +5,19 @@
     "StartDate": "2025-05-07T00:26:34",
     "EndDate": "2025-05-15T00:26:34",
     "TotalAmount": 1620.0
+  },
+  {
+    "CustomerName": "شوشو",
+    "VehicleID": 1,
+    "StartDate": "2025-05-09T20:23:11",
+    "EndDate": "2025-05-24T20:23:11",
+    "TotalAmount": 3200.0
+  },
+  {
+    "CustomerName": "هنا",
+    "VehicleID": 2,
+    "StartDate": "2025-05-10T16:49:50",
+    "EndDate": "2025-05-17T16:49:50",
+    "TotalAmount": 2800.0
   }
 ]

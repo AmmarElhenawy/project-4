@@ -23,9 +23,9 @@ public enum LicenseType
         // خاصية جديدة لعرض الاسم مع الرقم في الـ ComboBox
         public string DisplayText => $"#{Id} - {Name}";
 
-        public override string ToString()
-        {
-            return $"ID: {Id}, Name: {Name}, Phone: {Phone}, License: {LicenseNumber}, IsLicenseEgyptianOrNot: {IsLicenseEgyptianOrNot}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"ID: {Id}, Name: {Name}, Phone: {Phone}, License: {LicenseNumber}, IsLicenseEgyptianOrNot: {IsLicenseEgyptianOrNot}";
+        //}
     }
 }

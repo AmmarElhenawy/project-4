@@ -116,7 +116,7 @@ namespace project_4.models
 
             // حفظ البيانات بعد الحجز
             SaveData();
-            SaveAppPath();
+            //SaveAppPath();
         }
 
         // دالة لإرجاع مركبة (إلغاء الحجز)
@@ -180,21 +180,25 @@ namespace project_4.models
         }
 
         // دالة لحفظ مسار التطبيق في ملف خاص
-        private static void SaveAppPath()
-        {
-            try
-            {
-                // تحديد مسار التطبيق
-                string appPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-                // حفظ المسار في ملف appPath.json
-                File.WriteAllText(Path.Combine(appPath, "appPath.json"), JsonConvert.SerializeObject(new { AppPath = appPath }));
-            }
-            catch (Exception ex)
-            {
-                // طباعة الخطأ إذا حدث أثناء الحفظ
-                Console.WriteLine($"Error saving app path: {ex.Message}");
-            }
-        }
+        //دالة static يعني تقدر تستخدمها من غير ما تنشئ كائن من RentalManager.
+        //private يعني ما ينفعش تستدعيها من برة الكلاس.
+        //private static void SaveAppPath()
+        //{
+        //    try
+        //    {
+        //        //بيحدد مكان تشغيل البرنامج (المجلد اللي فيه الملف التنفيذي .exe)
+        //        //مثلًا لو شغلت التطبيق من C:\Projects\RentalApp\bin\Debug\, ده هو اللي هيتسجل.
+        //        string appPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+        //        // حفظ المسار في ملف appPath.json
+        //        // "AppPath": "C:\\Projects\\RentalApp\\bin\\Debug" يحتوي 
+        //        File.WriteAllText(Path.Combine(appPath, "appPath.json"), JsonConvert.SerializeObject(new { AppPath = appPath }));
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        // طباعة الخطأ إذا حدث أثناء الحفظ
+        //        Console.WriteLine($"Error saving app path: {ex.Message}");
+        //    }
+        //}
 
         // دالة لتحميل البيانات من ملفات JSON عند بدء التشغيل
         private static void LoadData()
@@ -217,7 +221,7 @@ namespace project_4.models
                     var loadedVehicles = JsonConvert.DeserializeObject<List<Vehicle>>(vehiclesJson, settings);
                     if (loadedVehicles != null)
                     {
-                        Vehicles.Clear();
+                        Vehicles.Clear(); // يمسح المركبات الافتراضية الموجودة
                         Vehicles.AddRange(loadedVehicles);
                         Console.WriteLine($"Loaded {loadedVehicles.Count} vehicles from JSON.");
                     }

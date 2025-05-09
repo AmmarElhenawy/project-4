@@ -23,7 +23,7 @@ namespace project_4
         {
             ///LoadBookings() بتجيب كل الحجوزات من RentalManager.Bookings وتعرضهم في BookingsList (الـ ListBox). 
             
-            BookingsList.DataSource = null;
+            BookingsList.DataSource = null; //هذا الخطوة تمنع الـ ListBox من الاحتفاظ بالبيانات القديمة أو من محاولة عرض نفس البيانات مرتين
             BookingsList.DataSource = RentalManager.GetBookings();
         }
 

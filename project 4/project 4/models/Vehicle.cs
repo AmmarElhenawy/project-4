@@ -31,9 +31,9 @@ namespace project_4.models
             IsAvailable = true;
         }
 
-        public override string ToString()
-        {
-            return $"{VehicleID}, {Brand}, {Model}, {Price}, {IsAvailable}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"{VehicleID}, {Brand}, {Model}, {Price}, {IsAvailable}";
+        //}
     }
 }

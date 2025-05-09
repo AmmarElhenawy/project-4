@@ -27,10 +27,10 @@ namespace project_4.models
             PassengerCapacity = passengerCapacity;
         }
 
-        public override string ToString()
-        {
-            return $"{VehicleID}, {Brand} {Model}, Bags: {BagCapacity}, Passengers: {PassengerCapacity}, Type: {Type}, Price: {Price}, Available: {IsAvailable}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"{VehicleID}, {Brand} {Model}, Bags: {BagCapacity}, Passengers: {PassengerCapacity}, Type: {Type}, Price: {Price}, Available: {IsAvailable}";
+        //}
 
     }
 }

@@ -16,7 +16,7 @@ namespace project_4.models
 
         public override string ToString()
         {
-            return $"{CustomerName}, {VehicleID}, {StartDate:yyyy-MM-dd}, {EndDate:yyyy-MM-dd}, {TotalAmount}";
+            return $"Name:{CustomerName} , VehicleID:{VehicleID}, StartDate:{StartDate:yyyy-MM-dd},EndDate: {EndDate:yyyy-MM-dd}, TotalAmount:{TotalAmount}";
         }
     }
 }

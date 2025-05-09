@@ -45,6 +45,7 @@ namespace project_4
         }
             // إضافة السطر التالي لأخذ نوع الرخصة // LicenseType is an enum in RentalManager
                LicenseType selectedLicenseType = (LicenseType)LicenseTypeComboBox.SelectedItem;
+                //بيجيب القيمة اللي المستخدم اختارها من ComboBox. //بيحول القيمة دي إلى نوع LicenseType (اللي هو enum). // بيخزنها في متغير اسمه selectedLicenseType.
 
 
                 // التأكد إن العميل مش موجود
@@ -94,8 +95,9 @@ namespace project_4
         }
 private void AddCustomerForm_Load(object sender, EventArgs e)
 {
-            LicenseTypeComboBox.DataSource = Enum.GetValues(typeof(LicenseType));
-            LicenseTypeComboBox.SelectedIndex = 0; // اختيار القيمة الأولى كافتراضي
+            LicenseTypeComboBox.DataSource = Enum.GetValues(typeof(LicenseType));// يعرض القيم اللي ف enum // dataSoource اعرضها ك اختيارات
+            //Enum.GetValues محتاج نوع، فإنت بتقوله: //خُد النوع باستخدام typeof(LicenseType)
+            LicenseTypeComboBox.SelectedIndex = 0; // اختيار القيمة الأولى كافتراضي //egyptian
         }
 
         private void PhoneTextBox_TextChanged(object sender, EventArgs e)

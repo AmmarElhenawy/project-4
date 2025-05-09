@@ -37,13 +37,17 @@ namespace project_4
                 // CustomerComboBox from designer page
                 CustomerComboBox.DataSource = RentalManager.Customers;// RentalManager.Customers from RentalManager.cs // مصدر البيانات هو قائمة العملاء
                 CustomerComboBox.DisplayMember = "DisplayText";// CustomerComboBox.DisplayMember = "DisplayText" from designer page // عرض اسم العميل
-                CustomerComboBox.ValueMember = "Id";// CustomerComboBox.ValueMember = "Id" from designer page //  قيمة العميل و ربطه ب القيمة
+
+                //we call it by CustomerComboBox.SelectedValue // القيمه الاصليه لربط العنصر
+                CustomerComboBox.ValueMember = "Id"; //  قيمة العميل و ربطه ب القيمة
 
                 // تعبئة قايمة المركبات المتاحة
                 // VehicleComboBox from designer page
                 VehicleComboBox.DataSource = RentalManager.GetAvailableVehicles();// RentalManager.GetAvailableVehicles() from RentalManager.cs // مصدر البيانات هو قائمة المركبات المتاحة
                 VehicleComboBox.DisplayMember = "DisplayText";// VehicleComboBox.DisplayMember = "DisplayText" from designer page // عرض اسم المركبة
-                VehicleComboBox.ValueMember = "VehicleID";// VehicleComboBox.ValueMember = "VehicleID" from designer page //  قيمة المركبة و ربطه ب القيمة
+
+                //we call it by VehicleComboBox.SelectedValue //القيمه الاصليه لربط العنصر
+                VehicleComboBox.ValueMember = "VehicleID"; //  قيمة المركبة و ربطه ب القيمة
 
                 // لو مفيش عملاء أو مركبات، نعرض رسالة
                 if (CustomerComboBox.Items.Count == 0)

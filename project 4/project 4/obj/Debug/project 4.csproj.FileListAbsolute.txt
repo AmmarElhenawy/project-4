@@ -48,3 +48,7 @@ C:\Users\Ammar\source\repos\project 4\project 4\project 4\bin\Debug\System.Value
 C:\Users\Ammar\source\repos\project 4\project 4\project 4\obj\Debug\project 4.csproj.Up2Date
 C:\Users\Ammar\source\repos\project 4\project 4\project 4\obj\Debug\project 4.exe
 C:\Users\Ammar\source\repos\project 4\project 4\project 4\obj\Debug\project 4.pdb
+C:\Users\Ammar\source\repos\project 4\project 4\project 4\bin\Debug\project 4.exe.manifest
+C:\Users\Ammar\source\repos\project 4\project 4\project 4\bin\Debug\project 4.application
+C:\Users\Ammar\source\repos\project 4\project 4\project 4\obj\Debug\project 4.exe.manifest
+C:\Users\Ammar\source\repos\project 4\project 4\project 4\obj\Debug\project 4.application

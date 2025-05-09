@@ -8,8 +8,8 @@
     "Brand": "Toyota",
     "Model": "Corolla (عربيه)",
     "Price": 200,
-    "IsAvailable": true,
-    "DisplayText": "#1 - Toyota Corolla (عربيه) (متاحة)"
+    "IsAvailable": false,
+    "DisplayText": "#1 - Toyota Corolla (عربيه) (محجوزة)"
   },
   {
     "$type": "project_4.models.Car, project 4",
@@ -20,8 +20,8 @@
     "Brand": "BMW",
     "Model": "X5 (عربيه)",
     "Price": 350,
-    "IsAvailable": true,
-    "DisplayText": "#2 - BMW X5 (عربيه) (متاحة)"
+    "IsAvailable": false,
+    "DisplayText": "#2 - BMW X5 (عربيه) (محجوزة)"
   },
   {
     "$type": "project_4.models.Car, project 4",
@@ -33,7 +33,7 @@
     "Model": "Altima (عربيه)",
     "Price": 250,
     "IsAvailable": true,
-    "DisplayText": "#3 - Nissan Altima (عربيه)  (متاحة)"
+    "DisplayText": "#3 - Nissan Altima (عربيه) (متاحة)"
   },
   {
     "$type": "project_4.models.Motorcycle, project 4",
@@ -44,7 +44,7 @@
     "Model": "CBR (موتوسيكل)",
     "Price": 150,
     "IsAvailable": true,
-    "DisplayText": "#101 - Honda CBR (موتوسيكل)  (متاحة)"
+    "DisplayText": "#101 - Honda CBR (موتوسيكل) (متاحة)"
   },
   {
     "$type": "project_4.models.Motorcycle, project 4",
@@ -55,7 +55,7 @@
     "Model": "MT-07 (موتوسيكل) ",
     "Price": 100,
     "IsAvailable": true,
-    "DisplayText": "#102 - Yamaha MT-07 (موتوسيكل) (متاحة)"
+    "DisplayText": "#102 - Yamaha MT-07 (موتوسيكل)  (متاحة)"
   },
   {
     "$type": "project_4.models.Motorcycle, project 4",
@@ -66,6 +66,6 @@
     "Model": "Ninja (موتوسيكل)",
     "Price": 180,
     "IsAvailable": false,
-    "DisplayText": "#103 - Kawasaki Ninja (موتوسيكل)  (محجوزة)"
+    "DisplayText": "#103 - Kawasaki Ninja (موتوسيكل) (محجوزة)"
   }
 ]

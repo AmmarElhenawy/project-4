@@ -23,10 +23,10 @@ namespace project_4.models
             HasSidecar = hasSidecar;
         }
 
-        public override string ToString()
-        {
-            return $"{VehicleID}, {Brand} {Model}, Sidecar: {(HasSidecar ? "Yes" : "No")}, Type: {Type}, Price: {Price}, Available: {IsAvailable}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"{VehicleID}, {Brand} {Model}, Sidecar: {(HasSidecar ? "Yes" : "No")}, Type: {Type}, Price: {Price}, Available: {IsAvailable}";
+        //}
 
     }
 }
